@@ -1,0 +1,2 @@
+Q: Was any of this material about Github new to you? If so, what?
+A: Using markdown on GitHub was new to me. I've used GitHub before and a little at work for version control but it's been a while
